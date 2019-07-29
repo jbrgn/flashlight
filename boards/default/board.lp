@@ -1,7 +1,7 @@
 (librepcb_board 80114a79-721f-4deb-aec7-86e8f2dc4f5b
  (name "default")
  (default_font "newstroke.bene")
- (grid (type lines) (interval 0.635) (unit millimeters))
+ (grid (type off) (interval 10.0) (unit millimeters))
  (layers (inner 0))
  (design_rules
   (name "LibrePCB Default Design Rules")
@@ -43,13 +43,29 @@
   (solderpaste_bot (create false) (suffix "_SOLDERPASTE-BOTTOM.gbr"))
  )
 
- (polygon 3ed1c58a-96ba-4e7c-aaf4-f1134c0fb097 (layer brd_outlines)
-  (width 0.0) (fill false) (grab_area false)
-  (vertex (position 0.0 0.0) (angle 0.0))
-  (vertex (position 100.0 0.0) (angle 0.0))
-  (vertex (position 100.0 80.0) (angle 0.0))
-  (vertex (position 0.0 80.0) (angle 0.0))
-  (vertex (position 0.0 0.0) (angle 0.0))
+ (device e718bee9-b0c9-4810-837d-db5d7e193f76
+  (lib_device a81d55a8-9acc-4272-b853-b4d78fae5b49)
+  (lib_footprint 49510f62-6bc1-4f5c-96e3-22da1b110766)
+  (position 0.0 31.49) (rotation 0.0) (mirror true)
+  (stroke_text ce19531f-d481-4c93-9a63-a7041c4f8efa (layer bot_names)
+   (height 1.0) (stroke_width 0.2) (letter_spacing auto) (line_spacing auto)
+   (align center bottom) (position 0.0 59.135) (rotation 0.0)
+   (auto_rotate true) (mirror true) (value "{{NAME}}")
+  )
  )
+
+ (polygon af6c4471-79b5-49fd-ba38-0728c2fb2746 (layer brd_outlines)
+  (width 0.0) (fill false) (grab_area false)
+  (vertex (position -17.5 65.0) (angle 0.0))
+  (vertex (position -17.5 65.0) (angle 0.0))
+  (vertex (position -17.5 0.0) (angle 63.0))
+  (vertex (position 17.5 0.0) (angle 0.0))
+  (vertex (position 17.5 65.0) (angle 20.0))
+  (vertex (position 25.0 90.0) (angle 0.0))
+  (vertex (position -25.0 90.0) (angle 20.0))
+  (vertex (position -17.5 65.0) (angle 0.0))
+ )
+
+ (hole 309fec40-edc1-4db0-b31b-afb850322b95 (diameter 4.0) (position 0.0 -1.0))
 
 )
