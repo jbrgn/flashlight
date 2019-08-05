@@ -90,6 +90,12 @@
   (attribute "FIELD_AUTHOR" (type string) (unit none) (value "{{ SCH_FRAME_AUTHOR or AUTHOR }}"))
   (attribute "FIELD_PAGE" (type string) (unit none) (value "{{ SCH_FRAME_PAGE_X_OF_Y or PAGE_X_OF_Y }}"))
  )
+ (component e22254f1-4a1b-4e6c-8954-8d5b78a5981b
+  (lib_component b91cf23a-4f07-4b99-8f52-0b42304aef20)
+  (lib_variant 0eebde17-6d45-4f73-95fe-3078a0f68ab6)
+  (lib_device 7186a6b2-4042-451f-a698-288394ec67a7)
+  (name "LOGO1") (value "Made With\nLibrePCB")
+ )
  (component e718bee9-b0c9-4810-837d-db5d7e193f76
   (lib_component b0cfc007-9834-43b4-bc7e-b348dd299326)
   (lib_variant e7f09e35-be7a-467f-b4a6-b8e0864117b8)
