@@ -1,5 +1,5 @@
 (librepcb_device a81d55a8-9acc-4272-b853-b4d78fae5b49
- (name "Keystone 2468 Battery Holder 2x AAA")
+ (name "Keystone 2468 Battery Holder 2xAAA")
  (description "Battery holder (open) for 2 cells AAA with through-hole pins.")
  (keywords "keystone,battery,holder,cell,aaa")
  (author "Jessy")

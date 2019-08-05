@@ -45,7 +45,7 @@
  (symbol ff669136-d551-47b1-bb02-f7f4a332ce27
   (component e718bee9-b0c9-4810-837d-db5d7e193f76)
   (lib_gate 6a1f3060-f48e-494b-b504-854138398f98)
-  (position 96.52 66.04) (rotation 270.0) (mirror false)
+  (position 96.52 66.04) (rotation 0.0) (mirror false)
  )
 
  (netsegment 143f2b6a-77f5-488a-ba49-3e271e49f39c
