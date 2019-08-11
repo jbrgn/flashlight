@@ -1,6 +1,6 @@
 (librepcb_package 814b2ccf-ae7f-4bf8-8e12-a79702906bc1
  (name "LED 5mm Recessed THT, Edge Mount")
- (description "LEDs that are recessed inside the PCB. Edge mount.\n\nImportant: To use this part, leave openings of 10.2 mm in your board outline layer, where you place this part.\n\nThe y coordinate of the contact points is 8.6 mm.")
+ (description "LEDs that are recessed inside the PCB. Edge mount.")
  (keywords "led,5mm,recessed")
  (author "Jessy")
  (version "0.1")
