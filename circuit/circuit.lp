@@ -90,6 +90,12 @@
   (attribute "FIELD_AUTHOR" (type string) (unit none) (value "{{ SCH_FRAME_AUTHOR or AUTHOR }}"))
   (attribute "FIELD_PAGE" (type string) (unit none) (value "{{ SCH_FRAME_PAGE_X_OF_Y or PAGE_X_OF_Y }}"))
  )
+ (component e0cdbc48-cde8-4c61-b450-f9ce802de29e
+  (lib_component af88252f-db3c-45f9-815f-67925a7cfe06)
+  (lib_variant 3f3c8059-42af-4e09-a51c-cd4bf8125d21)
+  (lib_device 99b296ae-ec90-4e33-bd45-5b6ef4f38047)
+  (name "LOGO3") (value "")
+ )
  (component e22254f1-4a1b-4e6c-8954-8d5b78a5981b
   (lib_component b91cf23a-4f07-4b99-8f52-0b42304aef20)
   (lib_variant 0eebde17-6d45-4f73-95fe-3078a0f68ab6)
@@ -112,6 +118,12 @@
   (attribute "RESISTANCE" (type resistance) (unit ohm) (value ""))
   (signal 3452d36e-1ce8-4b7c-8e5b-90c2e4929ed8 (net 6da78714-690d-452f-9626-e9fb1c5eb1a9))
   (signal ad623f98-9e73-49c3-9404-f7cfa99d17cd (net 5174292a-90fe-4e93-87d9-377278c235e3))
+ )
+ (component ecf023a8-cc9a-4757-8a06-534846d5670a
+  (lib_component f6542150-82a2-4a67-aec2-8a08ce0c55d2)
+  (lib_variant 7a85c3f5-39d0-406e-abba-8393a7d27b56)
+  (lib_device 6fb62718-a818-4229-8370-11813c372305)
+  (name "LOGO2") (value "Made At\nCoredump")
  )
 
 )

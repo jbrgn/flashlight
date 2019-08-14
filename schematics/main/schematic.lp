@@ -2,6 +2,11 @@
  (name "Main")
  (grid (type lines) (interval 2.54) (unit millimeters))
 
+ (symbol 19f6e2ea-98ee-4844-b90f-cb7543f5e4c7
+  (component e0cdbc48-cde8-4c61-b450-f9ce802de29e)
+  (lib_gate 2cfc270f-39a4-4d53-a361-382ee0906b09)
+  (position 88.9 -27.94) (rotation 0.0) (mirror false)
+ )
  (symbol 2769e1d9-e536-4718-b8da-6555739a46f6
   (component e98a8c6f-941e-4ca4-9586-ee63d8945673)
   (lib_gate 5988c66a-f507-487e-9b40-486502e8c9bd)
@@ -16,6 +21,11 @@
   (component c78eb7c4-8fa0-435c-99d3-dc1bba666da4)
   (lib_gate 6ca391c0-1c6d-4176-9607-31bf40d1b406)
   (position -25.4 -40.64) (rotation 0.0) (mirror false)
+ )
+ (symbol 5ca2f852-d23f-4120-9db0-55da5361b1be
+  (component ecf023a8-cc9a-4757-8a06-534846d5670a)
+  (lib_gate a4761de0-97af-4330-a3a0-e54642de22d1)
+  (position 71.12 -27.94) (rotation 0.0) (mirror false)
  )
  (symbol 7c60b879-8e9c-4256-b430-a8f141e06c52
   (component 4abe1552-3f2b-4f3b-af84-8093ba8ce51f)
@@ -50,7 +60,7 @@
  (symbol ff669136-d551-47b1-bb02-f7f4a332ce27
   (component e718bee9-b0c9-4810-837d-db5d7e193f76)
   (lib_gate 6a1f3060-f48e-494b-b504-854138398f98)
-  (position 96.52 66.04) (rotation 270.0) (mirror false)
+  (position 96.52 66.04) (rotation 0.0) (mirror false)
  )
 
  (netsegment 143f2b6a-77f5-488a-ba49-3e271e49f39c

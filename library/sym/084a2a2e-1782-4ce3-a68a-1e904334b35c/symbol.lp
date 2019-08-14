@@ -1,0 +1,13 @@
+(librepcb_symbol 084a2a2e-1782-4ce3-a68a-1e904334b35c
+ (name "Logo jb")
+ (description "")
+ (keywords "jb,brgn,logo")
+ (author "Jessy")
+ (version "0.1")
+ (created 2019-08-14T20:06:37Z)
+ (deprecated false)
+ (category 213bd44f-f375-41d8-8fdd-0652eb893e27)
+ (text ec7e9ffa-4a7a-406f-852c-c9afacf450a2 (layer sym_outlines) (value "Made by jb")
+  (align center center) (height 2.54) (position 0.0 0.0) (rotation 0.0)
+ )
+)

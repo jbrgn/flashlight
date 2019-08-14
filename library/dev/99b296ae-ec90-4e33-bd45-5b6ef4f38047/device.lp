@@ -1,0 +1,12 @@
+(librepcb_device 99b296ae-ec90-4e33-bd45-5b6ef4f38047
+ (name "Logo jb")
+ (description "")
+ (keywords "jb,brgn,logo")
+ (author "Jessy")
+ (version "0.1")
+ (created 2019-08-14T20:07:59Z)
+ (deprecated false)
+ (category 213bd44f-f375-41d8-8fdd-0652eb893e27)
+ (component af88252f-db3c-45f9-815f-67925a7cfe06)
+ (package 4d97667a-f3ab-4d41-a819-dbe891a11967)
+)
